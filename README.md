@@ -26,8 +26,9 @@
 * 5 - pip install -r requirements.txt
 * 6 - python manage.py runserver
 
-# Install react modules
+# Install and start react modules
 * 1 - cd frontend
 * 2 - npm install
+* 3 - npm start
 
 
